@@ -1,1 +1,1 @@
-"# template-rocketseat" 
+# template-rocketseat
